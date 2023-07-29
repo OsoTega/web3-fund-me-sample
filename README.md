@@ -4,7 +4,7 @@
 4. Push to Github
 
 # About
-This is an app that enable people fund the contract owner
+This is an app that enables people fund the contract owner
 
 # Getting started
 Run this on your terminal
