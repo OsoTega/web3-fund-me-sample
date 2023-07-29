@@ -3,6 +3,6 @@
 3. Programmatic verification
 4. Push to Github
 
-```java
-System.out.println("Welcome");
+```foundry
+forge script script/DeployFundMe.s.sol:DeployFundMe
 ```
